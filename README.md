@@ -1,4 +1,5 @@
-# understandingAboutComputerArchitecture## References
+# [understandingAboutComputerArchitecture](https://velog.io/@urtimeislimited/TIL-현대-컴퓨터-구조는-어디에서-온-걸까)
+## References
 [eluwing님](https://nitro04.blogspot.com/2020/03/bep-1_54.html)
 [기운찬곰님](https://velog.io/@ckstn0777/컴퓨터-구조#-하버드-구조)
 [위키피디아 폰노이만 구조](https://ko.wikipedia.org/wiki/%ED%8F%B0_%EB%85%B8%EC%9D%B4%EB%A7%8C_%EA%B5%AC%EC%A1%B0)
